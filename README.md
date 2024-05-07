@@ -10,6 +10,7 @@
 |원격브랜치 삭제|`$ git push <원격저장소이름> -d <branch명>`||
 |로컬브랜치 삭제|`$ git branch -D <branch명>`||
 |브랜치 생성 및 이동|`$ git checkout -b <branch>`||
+|원격 브랜치 생성|`$ git push <원격저장소이름> <branch명>`||
 |브랜치 이동|`$ git checkout <branch>`||
 |git log 확인|`$ git log --oneline --graph --all`||
 |병합하기|`$ git merge <branch>`||
