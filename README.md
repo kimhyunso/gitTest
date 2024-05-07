@@ -11,8 +11,11 @@
 |git branch 생성 및 이동|`git checkout -b [branch명]`||
 |git branch 이동|`git checkout [branch명]`||
 |git log 확인|`git log --graph`||
+|git branch 병합||
 
 # merge
+- branch를 병합하는 것
+
 
 # rebase
 
