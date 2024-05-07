@@ -12,4 +12,7 @@
 |git branch 이동|`git checkout [branch명]`||
 |git log 확인|`git log --graph`||
 
+# merge
+
+# rebase
 
